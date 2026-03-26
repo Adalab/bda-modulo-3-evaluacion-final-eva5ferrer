@@ -26,7 +26,6 @@ The project is organized into four sequential phases:
 
 ### Phase 4: Flights Booked by Education
 - **Specific Analysis:** A targeted study on how educational level impacts the number of flights booked.
-- **Statistical Testing:** Applying A/B testing or ANOVA to determine if differences between groups are statistically significant.
 
 ## 📊 Data Description
 
